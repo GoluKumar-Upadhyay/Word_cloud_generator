@@ -28,14 +28,32 @@ Supports width/height customization, color themes, and background color selectio
 ---
 
 
+![Screenshot_3-12-2025_195216_127 0 0 1](https://github.com/user-attachments/assets/2abdeca7-06f1-40d4-b051-9bb56f05390f)
+
 ![Screenshot_3-12-2025_195250_127 0 0 1](https://github.com/user-attachments/assets/88f8b320-2200-4782-ad02-a0d41d4c3173)
 
 
 
 
-![Screenshot_3-12-2025_195216_127 0 0 1](https://github.com/user-attachments/assets/2abdeca7-06f1-40d4-b051-9bb56f05390f)
+
 
 -
 
 
 ## 📁 Project Structure
+
+
+wordcloud-generator/
+│
+├── app.py
+├── templates/
+│ └── index.html
+├── static/
+│ └── (optional CSS/JS files)
+├── requirements.txt
+└── README.md
+
+
+----
+
+
